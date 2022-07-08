@@ -45,4 +45,4 @@
 <li>Para alterar o titulo do painel edite o arquivo: <b>config.php</b></li>
 </ol><br>
 <h3>☑️ Outros</h3> <br>
-Para informar bugs e sugestões: https://t.me/Davidsdy <br>
+Para informar bugs e sugestões: whatsapp 5511958100839 <br>

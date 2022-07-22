@@ -65,10 +65,10 @@
 
                     <label for=""><span style="color: black;">Info</span></label>
                     <select name="info" class="form-control">
-                        <option value="tlsws">WS/SSL</option>
-                        <option value="direct">SSH/Direct</option>
-                        <option value="proxy">SSH/Proxy</option>
-                        <option value="ssl">SSH/SSL</option>
+                        <option value="Tlsws">WS/SSL</option>
+                        <option value="Direct">SSH/Direct</option>
+                        <option value="Proxy">SSH/Proxy</option>
+                        <option value="Ssl">SSH/SSL</option>
                     </select>
             </div>
             <div class="modal-footer">
@@ -283,10 +283,10 @@
 
                     <label for=""><span style="color: black;">Info</span></label>
                     <select name="info" class="form-control">
-                        <option value="tlsws">WS/SSL</option>
-                        <option value="direct">SSH/Direct</option>
-                        <option value="proxy">SSH/Proxy</option>
-                        <option value="ssl">SSH/SSL</option>
+                        <option value="Tlsws">WS/SSL</option>
+                        <option value="Direct">SSH/Direct</option>
+                        <option value="Proxy">SSH/Proxy</option>
+                        <option value="Ssl">SSH/SSL</option>
                     </select>
             </div>
             <div class="modal-footer">
